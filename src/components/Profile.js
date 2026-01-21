@@ -9,7 +9,7 @@ const Profile = () => {
   return (
     <section
       id="home"
-      className="text-gray-600 bg-darkblue body-font pt-16 lg:min-h-75vh"
+      className="text-gray-600 bg-[#C084FC] body-font pt-16 lg:min-h-75vh"
     >
       <div className="p-5 mx-auto gap-2 flex flex-col md:pt-12 md:px-7 lg:py-20 lg:flex-row-reverse items-center min-h-fit">
         <div
@@ -33,7 +33,7 @@ const Profile = () => {
             className="title-font md:text-3xl text-2xl mb-4 text-center font-medium text-white"
           >
             Hello , I am{" "}
-            <span className="text-dark-orange">{ProfileData.name}</span>
+            <span className="text-[#FB923C]">{ProfileData.name}</span>
           </h2>
           <div
             data-aos="zoom-in-up"

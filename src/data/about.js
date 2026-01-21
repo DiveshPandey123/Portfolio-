@@ -1,5 +1,5 @@
 const AboutData = {
-  image: require("../assets/Images/about.png"),
+  image: require("../assets/Images/about1.png"),
   description: [
     "A passionate and dedicated developer with strong expertise in both Web Development and Machine Learning.",
     "I enjoy creating visually stunning and highly functional websites using technologies like HTML5, CSS3, JavaScript, React, Next.js, and Tailwind, while also building intelligent ML models using Python and popular ML libraries.",

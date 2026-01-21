@@ -13,7 +13,7 @@ const Navbar = () => {
   };
 
   return (
-    <header className="text-white body-font fixed inset-x-0 z-50 bg-darkblue">
+    <header className="text-white body-font fixed inset-x-0 z-50 bg-[#423152]">
       <div className="mx-auto py-2 px-5 flex flex-row justify-between lg:justify-around items-center lg:py-3">
         <Link
           data-aos="fade-right"

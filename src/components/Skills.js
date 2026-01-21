@@ -25,7 +25,7 @@ const Skills = () => {
           data-aos="zoom-in"
           data-aos-duration="1500"
           data-aos-once="false"
-          className="px-2 py-6 grid justify-center items-center grid-cols-3 gap-x-3 gap-y-6 sm:grid-cols-4 md:py-5 lg:grid-cols-5 xl:grid-cols-6 border-t-gray-200 border-2 rounded-md md:shadow-md"
+          className="px-2 py-6 grid justify-center items-center grid-cols-3 gap-x-3 gap-y-6 sm:grid-cols-4 md:py-5 lg:grid-cols-5 xl:grid-cols-6 border-t-gray-200 border-2 rounded-md md:shadow-md bg-[#bebcbf] "
         >
           {SkillsData.map((skill, index) => {
             return (

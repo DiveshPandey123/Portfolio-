@@ -36,7 +36,7 @@ const Projects = () => {
                 alt={project.name}
                 className="h-80 rounded-xl"
               />
-              <div className="absolute flex flex-col justify-center items-center bottom-0 left-0 right-0 h-0 overflow-hidden group-hover:h-full transition-[height_0.5s] duration-500 bg-darkblue rounded-xl">
+              <div className="absolute flex flex-col justify-center items-center bottom-0 left-0 right-0 h-0 overflow-hidden group-hover:h-full transition-[height_0.5s] duration-500 bg-[#C084FC] rounded-xl">
                 <h3 className="text-2xl font-medium text-white my-2">
                   {project.name}
                 </h3>
