@@ -26,11 +26,9 @@ const Navbar = () => {
           to="home"
           className="flex justify-center items-center w-fit"
         >
-          <img
-            className="w-12 h-12 ml-3 cursor-pointer scale-125 lg:scale-150"
-            src={ProfileData.logo}
-            alt={ProfileData.name}
-          />
+          <p className="text-2xl font-bold cursor-pointer hover:text-dark-orange">
+            Divesh Pandey
+          </p>
         </Link>
         <nav
           data-aos="zoom-in"
